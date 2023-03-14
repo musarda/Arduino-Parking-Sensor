@@ -25,7 +25,7 @@ Features | Outputs
 
 # HC-SR04 Ultrasonic Sensor Connection
 
-<img src="https://user-images.githubusercontent.com/107439786/224998085-c2b1104e-1e45-4c02-bc43-b072e3d44a08.png" title="HC-SR04" alt="HC-SR04" width="250">
+<img src="https://github.com/musarda/Arduino-Parking-Sensor/blob/main/img/HC-SR04.png" title="HC-SR04" alt="HC-SR04" width="250">
 
 - **VCC** : It is the power supply for the HC-SR04 Ultrasonic distance sensor, which we connect 5V pin to Arduino.
 - **Trig** : The (Trigger) pin is used to trigger ultrasonic audio signals.
@@ -54,7 +54,7 @@ Connecting the HC-SR04 to Arduino is quite easy. I recommend placing the sensor 
 
 # Connection Diagram
 
-![Circuit_Diagram](https://user-images.githubusercontent.com/107439786/225000799-649166b1-50a2-4176-a45e-2182d140330c.jpg)
+![Circuit_Diagram](https://github.com/musarda/Arduino-Parking-Sensor/blob/main/img/Circuit_Diagram.jpg)
 
 > Connect the VCC pin to the 5V pin on the Arduino and the GND pin to the Ground pin on the Arduino as seen in the circuit diagram above.
   Connect the trig pin to the 7th digital pin of the Arduino and the echo pin to the 6th digital pin of the Arduino.
