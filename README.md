@@ -51,6 +51,8 @@ Connecting the HC-SR04 to Arduino is quite easy. I recommend placing the sensor 
 - 1x Buzzer
 - Jumper cable
 
+[Code](https://github.com/musarda/Arduino-Parking-Sensor/blob/main/Parking_sensor.ino)
+
 # Connection Diagram
 
 ![Circuit_Diagram](https://user-images.githubusercontent.com/107439786/225000799-649166b1-50a2-4176-a45e-2182d140330c.jpg)
