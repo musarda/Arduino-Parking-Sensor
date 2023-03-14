@@ -49,6 +49,7 @@ Connecting the HC-SR04 to Arduino is quite easy. I recommend placing the sensor 
 - 1x Breadboard
 - 1x HC-SR04 ultrasonic distance sensor
 - 1x Buzzer
+- 1x 330Ω Resistance
 - Jumper cable
 
 # Connection Diagram
