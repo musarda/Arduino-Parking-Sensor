@@ -1,7 +1,7 @@
 # Arduino Parking Sensor
 Making a Parking Sensor with Arduino is Actually Very Simple. You can make it yourself using the following materials
 
-This Content Also Has A YouTube Video! Don't Forget to Watch! [Code Chain](https://www.youtube.com/@CodeChain)
+This Content Also Has A YouTube Video! Don't Forget to Watch! [Code Chain](https://www.youtube.com/@CodeChain) [Video](https://youtu.be/QbnlMhDsDws)
 
 # What is HC-SR04 Ultrasonic Distance Sensor?
 Designed for use in development boards such as Arduino, this sensor is a distance measurement sensor used in most robotic projects due to its cheapness and ease of use.
