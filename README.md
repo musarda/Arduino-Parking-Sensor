@@ -58,3 +58,8 @@ Connecting the HC-SR04 to Arduino is quite easy. I recommend placing the sensor 
 
 > Connect the VCC pin to the 5V pin on the Arduino and the GND pin to the Ground pin on the Arduino as seen in the circuit diagram above.
   Connect the trig pin to the 7th digital pin of the Arduino and the echo pin to the 6th digital pin of the Arduino.
+
+# Clone
+````
+gh repo clone musarda/Arduino-Parking-Sensor
+````
